@@ -13,8 +13,6 @@ export default function ContactCard({message}: any) {
     
         return color;
     }
-    
-    
 
     return (
         <li className="flex items-center gap-2 border-b-2 border-gray-300 px-2 h-20">
