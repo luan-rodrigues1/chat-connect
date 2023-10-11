@@ -100,7 +100,7 @@ export default function Home() {
                 placeholder="Digite sua senha aqui..." 
                 id="password-login"
             />
-            <button type="submit">Entrar</button>
+            <button className="mt-24 border-black border" type="submit">Entrar</button>
         </form>
     </main>
     
